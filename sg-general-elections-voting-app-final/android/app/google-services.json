@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "500241535441",
+    "firebase_url": "https://votinggrc.firebaseio.com",
+    "project_id": "votinggrc",
+    "storage_bucket": "votinggrc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500241535441:android:ceb08690e36250404890f0",
+        "android_client_info": {
+          "package_name": "com.example.sgge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500241535441-urrva8n82v4cu5elfbejkaq2mk3g7tvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeLF96Q1ynsb2bT2rIVK6AfFQ92MigShE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500241535441-urrva8n82v4cu5elfbejkaq2mk3g7tvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
