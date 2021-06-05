@@ -4,4 +4,4 @@ I made these apps while creating an App Development with Flutter curriculum in m
 
 I made step-by-step instructions in slides for students to follow the lesson, as well as starter code to help them save lesson time. 
 
-![proof of slides](https://github.com/rebeccacxy/flutter-curriculum/blob/main/flutter-slides.png)
+<img src="https://github.com/rebeccacxy/flutter-curriculum/blob/main/flutter-slides.png" width="400" height="auto"></img>
